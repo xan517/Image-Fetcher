@@ -24,6 +24,10 @@ namespace Image_Fetcher
         }
 
 
+        //behind the scenes methods related to the UI
+
+        //wow such empty
+
 
 
         //Buttons 
